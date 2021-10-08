@@ -1,4 +1,4 @@
 {
-	"innerHTML" : "<b></b>"
-	"limit"	    : 220	
+	"innerHTML" : "<b></b>",
+	"limit"	    : "220"	
 }
