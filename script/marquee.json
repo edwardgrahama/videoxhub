@@ -3,6 +3,7 @@
 	"innerHTML2": "<b></b>",
 	"limit"	    : "200",
 	"lmtover"   : "1",
-	"lmt"	    : "250"	
+	"lmt"	    : "200"
+
 	
 }
