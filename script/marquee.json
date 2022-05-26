@@ -4,7 +4,7 @@
 	"limit1"    : "250",
 	"limit2"    : "120",
 	"arrlmtover": "0"
-	"lmtover"   : "1",
+	"lmtover"   : "0",
 	"lmt"	    : "200"
 
 	
